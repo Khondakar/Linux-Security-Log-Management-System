@@ -2,8 +2,7 @@
 
 **NOTE: Few modules are still work in progress.**
          
-SOURCE INFO:
-
+**SOURCE INFO:**
 Author: Khondakar Al Sabah
 
 Date: 13 June 2020
@@ -11,15 +10,15 @@ Date: 13 June 2020
 BIO: IT Professional
 
 
-WHAT THIS ABOUT:
+**WHAT THIS ABOUT:**
 
 This is automated Linux security and Log Management Solution.
 
-WHY THIS SCRIPT:
+**WHY THIS SCRIPT:**
 
 Try to put all Linux security related commands to make it automated system.
 
-HOW TO USE IT:
+**HOW TO USE IT:**
 
 1. Clone or Download all files in a directory. To clone please copy the below line and paste in a Linux terminal.
 
