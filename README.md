@@ -31,3 +31,4 @@ Try to put all Linux security related commands to make it automated system.
    
 2. Run `(./menu.sh)` and follow the prompts.
 
+![alt text](https://github.com/Khondakar/Linux-Security-Log-Management-System/blob/master/screenshot/MainMenu.PNG)
