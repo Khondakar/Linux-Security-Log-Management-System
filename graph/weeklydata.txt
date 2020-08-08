@@ -1,0 +1,6 @@
+1 Emergency 2
+2 Alert 2
+3 Critical 8
+4 Error 55
+5 Warning 2774
+6 Notice 3546
