@@ -1,0 +1,1 @@
+# Create reports based on the search options in the main menu.
