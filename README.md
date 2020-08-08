@@ -1,6 +1,3 @@
-# Linux-Security-Log-Management-System
-Linux Security and Log Management System
-
 ABOUT: ** -- LINUX SECURITY & LOG MANAGEMENT SYSTEM -- **
 
 NOTE: Please change all the Linux commands as per your requirements. All (.sh) script files being created as per 
