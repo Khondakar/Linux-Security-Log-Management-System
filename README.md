@@ -8,7 +8,7 @@ Author: Khondakar Al Sabah
 
 Date: 13 June 2020
 
-BIO: IT Professional
+BIO: IT Professional.
 
 
 **WHAT THIS ABOUT:**
