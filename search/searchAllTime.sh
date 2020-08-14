@@ -32,18 +32,11 @@ inputword2=$(echo ${usrinput#*AND})    # testuser1
 # Search using two patterns 
 #sudo journalctl | grep -E 'authentication failure.*testusr1' | more
 
-sudo journalctl | grep -E "$inputword1" | grep -E "$inputword2" > /home/khondakar/workSpace/LMS/Reports/ReportSearchResultAllTime.txt
+sudo journalctl | grep -E "$inputword1" | grep -E "$inputword2" > ~/workSpace/LMS/Reports/ReportSearchResultAllTime.txt
 
 # Display the result column wise with highlighted searching key word
-column -t /home/khondakar/workSpace/LMS/Reports/ReportSearchResultAllTime.txt | more
+column -t ~/workSpace/LMS/Reports/ReportSearchResultAllTime.txt | more
 
 echo "*----------------- End of Search Result -----------------------*"
 
-# Find and delete existing 'result.txt' file
-#if [ -f "/home/khondakar/workSpace/LMS/result.txt" ]
-#then
-# sudo rm /home/khondakar/workSpace/LMS/result.txt
-#fi
 
-
-exit
