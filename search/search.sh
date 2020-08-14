@@ -14,12 +14,12 @@ read input
 
 #sudo journalctl --since "2020-06-22" --until "2020-06-22 23:00" | grep "$input"
 
-sudo journalctl | grep "$input" > /home/khondakar/workSpace/LMS/Reports/ReportForSearchResult.txt
+sudo journalctl | grep "$input" > ~/workSpace/LMS/Reports/ReportForSearchResult.txt
 
 # sudo egrep -r "$input" /var/log > result.txt
 
 # Display the result column wise with highlighted searching key word
-column -t /home/khondakar/workSpace/LMS/Reports/ReportForSearchResult.txt | sudo grep --color=always "$input" | more		
+column -t ~/workSpace/LMS/Reports/ReportForSearchResult.txt | sudo grep --color=always "$input" | more		
 
 
 echo -e "---------* End of Search Result! *-----------"
