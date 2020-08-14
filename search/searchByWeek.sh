@@ -17,5 +17,3 @@ sudo journalctl --since "1 week ago" | grep "$inputword" > ~/workSpace/LMS/Repor
 column -t ~/workSpace/LMS/Reports/ReportLast7Days.txt | grep --color=always "$inputword" | more
 
 echo "*----------------- End of Search Result! -----------------------*"
-
-exit
